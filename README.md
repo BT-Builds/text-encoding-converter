@@ -65,3 +65,6 @@ curl -X POST https://text-encoding-converter.vercel.app/hex/decode \
 - Pro tier: $19/month for 10,000 requests/day
 
 List on RapidAPI for $15/month subscription.
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/text-encoding-converter/main/postman_collection.json)
